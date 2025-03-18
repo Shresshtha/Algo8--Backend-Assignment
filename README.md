@@ -153,3 +153,21 @@ Welcome to the **Auth Backend** project! This is a production-ready authenticati
 ---
 
 ## Project Structure 📂
+
+auth-backend/
+├── models/
+│   ├── User.js
+├── routes/
+│   ├── authRoutes.js
+├── .env
+├── server.js
+├── package.json
+
+
+## Future Enhancements 🚀
+- **Role-Based Access Control (RBAC)** 🔄
+- **Account Verification via Email** 📧
+- **Refresh Tokens for JWT Expiry Management** 🔄
+- **Password Reset Functionality** 🔐
+
+🚀 **Built with ❤️ for robust authentication solutions!** 🚀
